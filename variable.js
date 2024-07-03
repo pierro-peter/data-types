@@ -1,19 +1,15 @@
-let x;
-string= "let's go"
-//declaring 4 variables without assigning values
-let p;
-let q;
-let r;
-let t;
-//declaring 4 variables  assigning values
-let p=
-const firstName;
-const maritalStatus;
-const country;
-const (firstName ,  maritalStatus , country );
-Const myAge ;
-myAge=54;
-const yourAge ;
+
+//declaring variables 
+let firstName = "pablo";
+let lastName = "omugagga";
+let maritalStatus = "married";
+let age = "67";
+
+let myFirstName = "pablo" , myLastName = "omugagga" , myMaritalStatus = "married" , myAgeage = "67";
+
+let myAge = 97;
+let yourAge = 76;
+
 yourAge=78;
-console.log(myAge,54)
-console.log(yourAge,78)
+console.log("myAge",97);
+console.log("yourAge",76);
